@@ -1,6 +1,6 @@
 # Github Contributions Visualizer
 
-Simple static webpage that connects to githubs api and pulls down daily contributions.
+Simple static webpage that connects to githubs api and pulls down daily contributions and displays them as illustrated below.
 
 ![Alt text](example.png?raw=true "Screenshot")
 
